@@ -15,3 +15,7 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+data/raw/polars/
+data/processed/xfoil_dataset_rows.csv
+data/processed/xfoil_runs_index.csv
